@@ -1,0 +1,24 @@
+2019-07-03 14:44:37,732 INFO [org.aksw.palmetto.Palmetto] - <Read 20 from file.>
+    0   0.53831 [excel, vba, file, data, cell]
+    1   0.61347 [mac, os, application, qt, cocoa]
+    2   0.49934 [sharepoint, list, site, web, custom]
+    3   0.49917 [matlab, image, matrix, array, plot]
+    4   0.64424 [ajax, jquery, page, javascript, aspnet]
+    5   0.69347 [hibernate, linq, oracle, query, sql]
+    6   0.45341 [bash, script, file, command, line]
+    7   0.48547 [haskell, type, scala, function, error]
+    8   0.51815 [google, polygon, way, maps, api]
+    9   0.62048 [oracle, server, web, sql, use]
+   10   0.47750 [spring, hibernate, use, security, mvc]
+   11   0.47653 [apache, htaccess, server, rewrite, modrewrite]
+   12   0.54114 [magento, wordpress, page, product, custom]
+   13   0.58716 [ruby, rails, vs, leopard, snow]
+   14   0.53515 [drupal, form, view, node, views]
+   15   0.46438 [studio, visual, project, code, file]
+   16   0.46862 [scala, class, java, method, way]
+   17   0.62170 [svn, subversion, files, repository, file]
+   18   0.40227 [using, best, without, get, one]
+   19   0.51038 [qt, cocoa, window, menu, item]
+
+Average score: 0.532517
+ 
